@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPTLAB7", "WPTLAB7.csproj", "{19099075-F573-4034-B75C-FBE06D0F22CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19099075-F573-4034-B75C-FBE06D0F22CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19099075-F573-4034-B75C-FBE06D0F22CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19099075-F573-4034-B75C-FBE06D0F22CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19099075-F573-4034-B75C-FBE06D0F22CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48525A4F-3305-4784-A5B1-5567ECA85ED8}
+	EndGlobalSection
+EndGlobal
